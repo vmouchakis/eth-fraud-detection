@@ -10,9 +10,9 @@
 
 ## Evaluation Results
 #### Confusion Matrix
-![](cm.jpeg)
+![CM](./images/cm.jpeg)
 #### ROC
-![](roc.jpeg)
+![ROC](./images/roc.jpeg)
 
 ### Requirements 
 See the `requirements.txt` file
